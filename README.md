@@ -65,6 +65,10 @@ Dataset is included in the `/data` folder and was used solely for this project.
 * Matplotlib / Seaborn
 * scikit-learn
 
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE) — feel free to use, modify, and distribute it with attribution.
+
 ## 👨‍💻 Author
 
 **Krishna Chopra**  
